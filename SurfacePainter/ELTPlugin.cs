@@ -3,7 +3,7 @@ using ColossalFramework.UI;
 using ICities;
 using NaturalResourcesBrush.API;
 using NaturalResourcesBrush.Utils;
-using RedirectionFramework;
+using NaturalResourcesBrush.RedirectionFramework;
 using SurfacePainter.Detours;
 using UnityEngine;
 
